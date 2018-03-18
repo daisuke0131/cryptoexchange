@@ -29,7 +29,7 @@ module Cryptoexchange::Exchanges
           ticker.market    = Gmo::Market::NAME
           ticker.ask       = NumericHelper.to_d(market['ask'])
           ticker.bid       = NumericHelper.to_d(market['bid'])
-          ticker.last      = NumericHelper.to_d(market['lastClose'])
+          ticker.last      = NumericHelper.to_d(market['bid'])
           ticker.high      = NumericHelper.to_d(market['highRate'])
           ticker.low       = NumericHelper.to_d(market['lowRate'])
           ticker.volume    = nil
