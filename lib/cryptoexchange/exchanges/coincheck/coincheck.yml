@@ -1,3 +1,27 @@
 :pairs:
   - :base: BTC
     :target: JPY
+  - :base: ETH
+    :target: JPY
+  - :base: ETC
+    :target: JPY
+  - :base: LSK
+    :target: JPY
+  - :base: FCT
+    :target: JPY
+  - :base: XMR
+    :target: JPY
+  - :base: REP
+    :target: JPY
+  - :base: XRP
+    :target: JPY
+  - :base: ZEC
+    :target: JPY
+  - :base: XEM
+    :target: JPY
+  - :base: LTC
+    :target: JPY
+  - :base: DASH
+    :target: JPY
+  - :base: BCH
+    :target: JPY
